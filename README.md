@@ -4,6 +4,8 @@
 
 **轻按，继续。** 用手写笔操作键切换抖音视频、双击点赞，或继续不背单词复习。
 
+**贡献者：[@moshanghua1227](https://github.com/moshanghua1227) · Codex（OpenAI AI 编程助手，开发贡献者）**
+
 [下载 v0.3.1 APK](https://github.com/moshanghua1227/PencilLink/releases/download/v0.3.1/PencilLink-0.3.1.apk) · [版本发布页](https://github.com/moshanghua1227/PencilLink/releases/tag/v0.3.1) · [版本记录](CHANGELOG.md) · [贡献说明](CONTRIBUTORS.md) · [隐私说明](PRIVACY.md)
 
 ## 系统环境与验证状态
