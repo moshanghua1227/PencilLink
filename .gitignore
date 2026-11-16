@@ -1,0 +1,17 @@
+.gradle/
+**/build/
+.idea/
+*.iml
+local.properties
+.test-build/
+work/
+*.jks
+*.keystore
+*.p12
+*.pem
+*.key
+*.apk
+*.aab
+*.log
+.DS_Store
+Thumbs.db
